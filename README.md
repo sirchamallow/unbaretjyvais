@@ -4,10 +4,10 @@
 
 ## **Écoutez-nous en ligne**
 
-    <iframe src="https://castbox.fm/app/castbox/player/id1361838?v=8.22.11&amp;autoplay=0" frameborder="0" width="100%" height="500"></iframe>
- 
- Flux RSS : https://anchor.fm/s/51196d0/podcast/rss
- Flux RSS backup : http://feeds.feedburner.com/unbaretjyvais
+https://castbox.fm/app/castbox/player/id1361838
+
+- Flux RSS : https://anchor.fm/s/51196d0/podcast/rss
+- Flux RSS backup : http://feeds.feedburner.com/unbaretjyvais
 
 ## **Qu’est ce que c’est ?**
 
@@ -21,15 +21,15 @@ Celui-ci est découpé en trois parties : la présentation du bar suivit d’un 
 
 ## **Cartographie des bars**
 
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UkZ4BDNhBQbrCc3dnWVDxOCgyEBDCrSN" width="640" height="480"></iframe>
+https://www.google.com/maps/d/u/0/embed?mid=1UkZ4BDNhBQbrCc3dnWVDxOCgyEBDCrSN
     
 ## **Réseaux Sociaux**
 
- - Twitter : https://twitter.com/unbaretjyvais
-  - Instagram : https://www.instagram.com/unbaretjyvais
-  - Facebook : https://www.facebook.com/unbaretjyvais
-  - Google Maps : https://www.google.com/maps/d/u/0/viewer?mid=1UkZ4BDNhBQbrCc3dnWVDxOCgyEBDCrSN&ll=45.75586063821969%2C4.844896692392695&z=13
-  - Mail : contact@unbaretjyvais.eu
+- Twitter : https://twitter.com/unbaretjyvais
+- Instagram : https://www.instagram.com/unbaretjyvais
+- Facebook : https://www.facebook.com/unbaretjyvais
+- Google Maps : https://www.google.com/maps/d/u/0/viewer?mid=1UkZ4BDNhBQbrCc3dnWVDxOCgyEBDCrSN&ll=45.75586063821969%2C4.844896692392695&z=13
+- Mail : contact@unbaretjyvais.eu
 
 ## Presse
 
