@@ -51,8 +51,7 @@ https://www.google.com/maps/d/u/0/embed?mid=1UkZ4BDNhBQbrCc3dnWVDxOCgyEBDCrSN
 
 ## **Remerciements**[](#remerciements)
 
--   [**Adélaïde DEVOS**](http://www.adelaidedevos.com/) pour la réalisation de notre logo ??
--   [**Jean-Marc BIANCA**](https://www.jmbianca.net/) pour l'hébergement du site internet
+[**Adélaïde DEVOS**](http://www.adelaidedevos.com/) pour la réalisation de notre logo
 
 ## **Licence**
 CC BY-NC 4.0  - 2017-2022 | **Un bar et j'y vais** -
